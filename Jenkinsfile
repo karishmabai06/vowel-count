@@ -9,7 +9,7 @@ pipeline {
         stage('Checkout Git') {
             steps {
                 git branch: 'main',
-                    url: 'https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git'
+                    url: 'https://github.com/karishmabai06/vowel-count.git'
             }
         }
 

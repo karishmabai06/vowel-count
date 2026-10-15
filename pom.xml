@@ -29,7 +29,7 @@
                 <groupId>org.codehaus.mojo</groupId>
                 <artifactId>exec-maven-plugin</artifactId>
                 <version>3.1.0</version>
-                <configuration><mainClass>ProgramClass</mainClass></configuration>
+                <configuration><mainClass>VowelCount</mainClass></configuration>
             </plugin>
         </plugins>
     </build>
